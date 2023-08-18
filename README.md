@@ -12,3 +12,4 @@ A python script to monitor the POE log file and press a defined set of keys when
 * Edit the log_file variable in mirrokey.py to point to the correct POE log file. An example location is set by default.
 * Install all requirements:
 ```pip install -r requirements.txt```
+* Run the script ```python mirrorkey.py```
