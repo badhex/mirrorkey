@@ -1,0 +1,4 @@
+pynput~=1.7.6
+tailer~=0.4.1
+langdetect~=1.0.9
+pywin32=306
